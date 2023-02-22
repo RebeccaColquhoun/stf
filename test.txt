@@ -19,8 +19,8 @@
 
 <p>Any use of data from the ISC <b>should be cited</b>. The correct format for citations may be found on our <a href="http://www.isc.ac.uk/citations/">citation page</a>.</p>
 
-<p>Once the search has completed, a compressed <a href="/temp/kml/487096347.kmz">KML file</a> will be available to view the results in <a STYLE="text-decoration:none" href="http://earth.google.com/">Google Earth</a>.</p><p><a href="/cgi-bin/makegmtmap?userid=5900741&region=g" target="map">Make an event map</a></p>
-<table><tr><td><b>Search summary:</b></td><tr><td>Database: ISC Bulletin</td></tr><tr><td>Search type: Global search</td></tr><tr><td>Start date: 2021-02-28 00:00:00</td></tr><tr><td>End date: 2021-03-01 00:00:00</td></tr><tr><td>GCMT Magnitude &gt;= 5.5</td></tr><tr><td>Events found: 4</td></tr><tr><td>Date of search: Wed Feb 22 16:22:06 2023 GMT</td></tr></table><p style="color:red">Agencies whose data contributed towards the results of this search are listed at the bottom of the page.</p>
+<p>Once the search has completed, a compressed <a href="/temp/kml/529047380.kmz">KML file</a> will be available to view the results in <a STYLE="text-decoration:none" href="http://earth.google.com/">Google Earth</a>.</p>Sorry a problem has occured with the map.
+<table><tr><td><b>Search summary:</b></td><tr><td>Database: ISC Bulletin</td></tr><tr><td>Search type: Global search</td></tr><tr><td>Start date: 2021-02-28 00:00:00</td></tr><tr><td>End date: 2021-03-01 00:00:00</td></tr><tr><td>GCMT Magnitude &gt;= 5.5</td></tr><tr><td>Events found: 4</td></tr><tr><td>Date of search: Wed Feb 22 16:33:08 2023 GMT</td></tr></table><p style="color:red">Agencies whose data contributed towards the results of this search are listed at the bottom of the page.</p>
 <pre>
 </pre><p><em>Please note:</em><br>
 <p>Data on or after 2021/03/01 have not been reviewed by the ISC.</p>
@@ -38,7 +38,7 @@ ISC Bulletin
 <table><tr><td><pre> (#FAULT_PLANE Typ Strike   Dip    Rake  NP  NS Plane Author   )
  (#                154.00 74.00   88.00               IPGP     )
  (+                343.00 16.00   98.00                        )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?fstr=154.00000&fdip=74.00000&frake=88.00000&userid=5900741&hypid=614910378"></td></tr></table>2021/02/28 02:16:03                 -17.7000  -72.7000                  10.0               8                          <a href=/cgi-bin/agency-get?agency=PTWC>PTWC</a>        615926684
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?fstr=154.00000&fdip=74.00000&frake=88.00000&userid=0&hypid=614910378"></td></tr></table>2021/02/28 02:16:03                 -17.7000  -72.7000                  10.0               8                          <a href=/cgi-bin/agency-get?agency=PTWC>PTWC</a>        615926684
 2021/02/28 02:16:03.50              -17.6119  -72.6178                  10.7                                       se <a href=/cgi-bin/agency-get?agency=NEIC>NEIC</a>        615862199
 2021/02/28 02:16:03.79   0.37 1.844 -17.5805  -72.4804                  10.0   0.0   18   17 157   2.29  29.28        <a href=/cgi-bin/agency-get?agency=CATAC>CATAC</a>       615648989
 <table><tr><td><pre> (#MOMTENS sc    M0 fCLVD    MRR    MTT    MPP    MRT    MTP    MPR NST1 NST2 Author   )
@@ -50,7 +50,7 @@ ISC Bulletin
  (+                340.75 23.44  103.49                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  2.236  45.49 67.26  0.198 148.34  5.32 -2.434 240.50 22.04 CATAC    )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.56048&mtt=-0.20057&mpp=-1.35991&mrt=0.96017&mrp=-1.31504&mtp=0.81712&userid=5900741&hypid=615648989"></td></tr></table> (varianceReduction 0.9303701151)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.56048&mtt=-0.20057&mpp=-1.35991&mrt=0.96017&mrp=-1.31504&mtp=0.81712&userid=0&hypid=615648989"></td></tr></table> (varianceReduction 0.9303701151)
  (doubleCouple 0.8370587578)
  (azimuthalGap 165.5514063)
  (misfit 0.06962988486)
@@ -68,7 +68,7 @@ ISC Bulletin
  (+                334.21 20.28   92.95                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  2.053  59.23 65.24 -0.060 151.44  1.02 -1.993 241.91 24.74 GFZ      )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.34384&mtt=-0.31651&mpp=-1.02734&mrt=0.75709&mrp=-1.33870&mtp=0.49913&userid=5900741&hypid=618820749"></td></tr></table> (varianceReduction 0.8114919148)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.34384&mtt=-0.31651&mpp=-1.02734&mrt=0.75709&mrp=-1.33870&mtp=0.49913&userid=0&hypid=618820749"></td></tr></table> (varianceReduction 0.8114919148)
  (doubleCouple 0.9413149352)
  (azimuthalGap 53.28835157)
  (misfit 0.1885080852)
@@ -83,7 +83,7 @@ ISC Bulletin
  (+                307.64 27.13   59.92                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  5.648  96.00 65.00  0.423 335.00 13.00 -6.071 240.00 21.00 NEIC     )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=3.93780&mtt=-1.00420&mpp=-2.93370&mrt=0.87650&mrp=-3.81810&mtp=2.56170&userid=5900741&hypid=615862197"></td></tr></table> (doubleCouple 0.8607)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=3.93780&mtt=-1.00420&mpp=-2.93370&mrt=0.87650&mrp=-3.81810&mtp=2.56170&userid=0&hypid=615862197"></td></tr></table> (doubleCouple 0.8607)
 2021/02/28 02:16:07.90   0.10       -17.6800  -72.7900                  20.1   0.5  489  149                          <a href=/cgi-bin/agency-get?agency=GCMT>GCMT</a>        615347625
  (#CENTROID)
 <table><tr><td><pre> (#MOMTENS sc    M0 fCLVD    MRR    MTT    MPP    MRT    MTP    MPR NST1 NST2 Author   )
@@ -95,7 +95,7 @@ ISC Bulletin
  (+                317.00 20.00   70.00                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  3.249  79.00 63.00  0.071 336.00  7.00 -3.327 242.00 26.00 GCMT     )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.91000&mtt=-0.48700&mpp=-1.43000&mrt=0.87400&mrp=-2.47000&mtp=0.99200&userid=5900741&hypid=615347625"></td></tr></table> (nsta1 refers to body waves, cutoff=40s. nsta2 refers to surface waves, cutoff=50s.)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.91000&mtt=-0.48700&mpp=-1.43000&mrt=0.87400&mrp=-2.47000&mtp=0.99200&userid=0&hypid=615347625"></td></tr></table> (nsta1 refers to body waves, cutoff=40s. nsta2 refers to surface waves, cutoff=50s.)
  (Triangular moment-rate function)
 2021/02/28 02:16:08.00f       0.750 -17.3900  -72.0500f                 10.0f                      9.68  89.35     ke <a href=/cgi-bin/agency-get?agency=INMG>INMG</a>        616163375
  (#DIST_RANGE: DISTANT)
@@ -110,7 +110,7 @@ ISC Bulletin
  (+                310.19 13.93   73.36                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  2.413  63.00 58.00  0.146 326.00  4.00 -2.559 234.00 32.00 NEIC     )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.04100&mtt=-0.40230&mpp=-0.63870&mrt=1.17500&mrp=-1.87810&mtp=0.67800&userid=5900741&hypid=615862200"></td></tr></table> (doubleCouple 0.8857)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.04100&mtt=-0.40230&mpp=-0.63870&mrt=1.17500&mrp=-1.87810&mtp=0.67800&userid=0&hypid=615862200"></td></tr></table> (doubleCouple 0.8857)
  (type triangle)
  (riseTime 1.54)
  (decayTime 1.54)
@@ -166,7 +166,7 @@ MS     5.3 0.1  313 ISC         619310502
  (+                269.49 54.50  104.99                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  1.430 225.10 75.17 -0.128  80.65 12.15 -1.302 348.84  8.36 GFZ      )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.30347&mtt=-1.18353&mpp=-0.11994&mrt=-0.43790&mrp=0.24038&mtp=-0.26938&userid=5900741&hypid=618820753"></td></tr></table> (varianceReduction 0.8051748262)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.30347&mtt=-1.18353&mpp=-0.11994&mrt=-0.43790&mrp=0.24038&mtp=-0.26938&userid=0&hypid=618820753"></td></tr></table> (varianceReduction 0.8051748262)
  (doubleCouple 0.8209470263)
  (azimuthalGap 54.53015421)
  (misfit 0.1948251738)
@@ -183,7 +183,7 @@ MS     5.3 0.1  313 ISC         619310502
  (+                268.89 33.37  110.20                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       16 10.726 303.00 73.00 -1.999  72.00 11.00 -8.727 164.00 13.00 NEIC     )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=9.27820&mtt=-7.59440&mpp=-1.68380&mrt=3.37540&mrp=3.40450&mtp=-1.15080&userid=5900741&hypid=615862248"></td></tr></table> (doubleCouple 0.6273)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=9.27820&mtt=-7.59440&mpp=-1.68380&mrt=3.37540&mrp=3.40450&mtp=-1.15080&userid=0&hypid=615862248"></td></tr></table> (doubleCouple 0.6273)
 2021/02/28 10:44:51.20   0.37 0.580  51.2117 -178.9391  8.05 4.273 176  26.3  2.43  218  226 126   1.56  95.95        <a href=/cgi-bin/agency-get?agency=GFZ>GFZ</a>         618820752
  (confirmed)
 2021/02/28 10:44:51.30               51.0972 -178.9458                  27.8                                       se <a href=/cgi-bin/agency-get?agency=NEIC>NEIC</a>        615862252
@@ -198,7 +198,7 @@ MS     5.3 0.1  313 ISC         619310502
  (+                265.00 26.00  110.00                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  1.919 314.00 68.00  0.130  66.00  9.00 -2.053 159.00 20.00 GCMT     )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.40000&mtt=-1.43000&mpp=0.02000&mrt=1.10000&mrp=0.70000&mtp=-0.50300&userid=5900741&hypid=615347631"></td></tr></table> (nsta1 refers to body waves, cutoff=40s. nsta2 refers to surface waves, cutoff=50s.)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.40000&mtt=-1.43000&mpp=0.02000&mrt=1.10000&mrp=0.70000&mtp=-0.50300&userid=0&hypid=615347631"></td></tr></table> (nsta1 refers to body waves, cutoff=40s. nsta2 refers to surface waves, cutoff=50s.)
  (Triangular moment-rate function)
 2021/02/28 10:44:52.50               51.1287 -178.9373                  35.3                                       se <a href=/cgi-bin/agency-get?agency=NEIC>NEIC</a>        615862250
 2021/02/28 10:44:53.10               50.5287 -178.9373                  35.5                                       se <a href=/cgi-bin/agency-get?agency=NEIC>NEIC</a>        615862251
@@ -212,7 +212,7 @@ MS     5.3 0.1  313 ISC         619310502
  (+                262.40 31.90  101.59                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  1.643 319.00 75.00  0.177  73.00  6.00 -1.820 164.00 14.00 NEIC     )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.43600&mtt=-1.51190&mpp=0.07590&mrt=0.71160&mrp=0.36500&mtp=-0.45240&userid=5900741&hypid=615862251"></td></tr></table> (doubleCouple 0.8049)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=1.43600&mtt=-1.51190&mpp=0.07590&mrt=0.71160&mrp=0.36500&mtp=-0.45240&userid=0&hypid=615862251"></td></tr></table> (doubleCouple 0.8049)
  (type triangle)
  (riseTime 1.33)
  (decayTime 1.33)
@@ -259,7 +259,7 @@ MS     4.9 0.2  143 ISC         619310531
  (#FAULT_PLANE Typ Strike   Dip    Rake  NP  NS Plane Author   )
  (#                111.30 49.90  123.10               ISC-PPSM )
  (+                245.90 50.20   57.00                        )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=0.58900&mtt=-0.69200&mpp=0.10000&mrt=0.00400&mrp=-0.01900&mtp=-0.28500&userid=5900741&hypid=619595483"></td></tr></table><table><tr><td><pre> (#STF N_samp   FS  mo_norm STF_units  NST    NWV  Author   )
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=0.58900&mtt=-0.69200&mpp=0.10000&mrt=0.00400&mrp=-0.01900&mtp=-0.28500&userid=0&hypid=619595483"></td></tr></table><table><tr><td><pre> (#STF N_samp   FS  mo_norm STF_units  NST    NWV  Author   )
  (#       256   10  2.73e09    Nm/s     28     28  ISC-PPSM )
  (#NORMALISED_STF (8 col, 32 lines)
  (#  0.002000  0.053170  0.114620  0.177540  0.239600  0.297660  0.348040  0.387130 )
@@ -305,12 +305,12 @@ MS     4.9 0.2  143 ISC         619310531
  (+                258.47 38.80   61.54                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  3.288  71.00 70.00  0.878 281.00 17.00 -4.167 188.00  9.00 NEIC     )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=2.87890&mtt=-3.90120&mpp=1.02230&mrt=1.04050&mrp=-0.84780&mtp=0.62910&userid=5900741&hypid=615862303"></td></tr></table> (doubleCouple 0.5785)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=2.87890&mtt=-3.90120&mpp=1.02230&mrt=1.04050&mrp=-0.84780&mtp=0.62910&userid=0&hypid=615862303"></td></tr></table> (doubleCouple 0.5785)
 2021/02/28 20:37:38.00              -22.6760  172.3820                  17.0                                          <a href=/cgi-bin/agency-get?agency=IPGP>IPGP</a>        614910484
 <table><tr><td><pre> (#FAULT_PLANE Typ Strike   Dip    Rake  NP  NS Plane Author   )
  (#                110.00 53.00   94.00               IPGP     )
  (+                283.00 37.00   85.00                        )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?fstr=110.00000&fdip=53.00000&frake=94.00000&userid=5900741&hypid=614910484"></td></tr></table>2021/02/28 20:37:38.30              -22.7152  172.4055                  10.0                                       se <a href=/cgi-bin/agency-get?agency=NEIC>NEIC</a>        615862304
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?fstr=110.00000&fdip=53.00000&frake=94.00000&userid=0&hypid=614910484"></td></tr></table>2021/02/28 20:37:38.30              -22.7152  172.4055                  10.0                                       se <a href=/cgi-bin/agency-get?agency=NEIC>NEIC</a>        615862304
 2021/02/28 20:37:38.40              -22.6973  172.3801                  10.0                                       se <a href=/cgi-bin/agency-get?agency=NEIC>NEIC</a>        615862306
 2021/02/28 20:37:39.24              -22.6080  174.1320                  33.0                     146.34 151.88     ke <a href=/cgi-bin/agency-get?agency=BGR>BGR</a>         618933125
 2021/02/28 20:37:40.93   0.13 0.785 -22.6585  172.4324                  30.7   0.0   90  224  36  12.56 106.32        <a href=/cgi-bin/agency-get?agency=GFZ>GFZ</a>         618820763
@@ -324,7 +324,7 @@ MS     4.9 0.2  143 ISC         619310531
  (+                277.79 30.64   82.81                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  6.098  27.78 75.00  0.315 283.98  3.66 -6.413 193.03 14.52 GFZ      )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=5.28742&mtt=-5.36627&mpp=0.07884&mrt=2.87019&mrp=-1.04202&mtp=1.22573&userid=5900741&hypid=618820764"></td></tr></table> (varianceReduction 0.9124305842)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=5.28742&mtt=-5.36627&mpp=0.07884&mrt=2.87019&mrp=-1.04202&mtp=1.22573&userid=0&hypid=618820764"></td></tr></table> (varianceReduction 0.9124305842)
  (doubleCouple 0.9016303212)
  (azimuthalGap 53.2202299)
  (misfit 0.08756941576)
@@ -340,7 +340,7 @@ MS     4.9 0.2  143 ISC         619310531
  (+                281.33 31.68   90.23                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  4.508  11.00 77.00  0.488 101.00  0.00 -4.996 191.00 13.00 NEIC     )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=4.00360&mtt=-4.30410&mpp=0.30050&mrt=2.09180&mrp=-0.40400&mtp=0.94780&userid=5900741&hypid=615862307"></td></tr></table> (doubleCouple 0.8047)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=4.00360&mtt=-4.30410&mpp=0.30050&mrt=2.09180&mrp=-0.40400&mtp=0.94780&userid=0&hypid=615862307"></td></tr></table> (doubleCouple 0.8047)
  (type triangle)
  (riseTime 1.86)
  (decayTime 1.86)
@@ -355,7 +355,7 @@ MS     4.9 0.2  143 ISC         619310531
  (+                274.00 35.00   84.00                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  6.280  27.00 79.00  0.543 279.00  3.00 -6.828 188.00 10.00 GCMT     )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=5.83000&mtt=-6.27000&mpp=0.43000&mrt=2.26000&mrp=-0.67000&mtp=0.93800&userid=5900741&hypid=615347639"></td></tr></table> (nsta1 refers to body waves, cutoff=40s. nsta2 refers to surface waves, cutoff=50s.)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=5.83000&mtt=-6.27000&mpp=0.43000&mrt=2.26000&mrp=-0.67000&mtp=0.93800&userid=0&hypid=615347639"></td></tr></table> (nsta1 refers to body waves, cutoff=40s. nsta2 refers to surface waves, cutoff=50s.)
  (Triangular moment-rate function)
 2021/02/28 20:37:45                 -23.0000  172.3000                  33.2              10                          <a href=/cgi-bin/agency-get?agency=PTWC>PTWC</a>        615926685
 2021/02/28 20:37:45.10        0.880 -22.8300  172.4600                  64.0             177                          <a href=/cgi-bin/agency-get?agency=NOU>NOU</a>         615674064
@@ -404,7 +404,7 @@ MS     5.6 0.1  334 ISC         619310578
 <table><tr><td><pre> (#FAULT_PLANE Typ Strike   Dip    Rake  NP  NS Plane Author   )
  (#                194.00 66.00  103.00               IPGP     )
  (+                344.00 27.00   63.00                        )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?fstr=194.00000&fdip=66.00000&frake=103.00000&userid=5900741&hypid=614910512"></td></tr></table>2021/02/28 23:37:15   f             -17.7230  167.4960f                  3.6   0.4                             m i    <a href=/cgi-bin/agency-get?agency=ISC-PPSM>ISC-PPSM</a>    619595513
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?fstr=194.00000&fdip=66.00000&frake=103.00000&userid=0&hypid=614910512"></td></tr></table>2021/02/28 23:37:15   f             -17.7230  167.4960f                  3.6   0.4                             m i    <a href=/cgi-bin/agency-get?agency=ISC-PPSM>ISC-PPSM</a>    619595513
 <table><tr><td><pre> (#MOMTENS sc    M0 fCLVD    MRR    MTT    MPP    MRT    MTP    MPR NST1 NST2 Author   )
  (#             eM0 eCLVD    eRR    eTT    ePP    eRT    eTP    ePR NCO1 NCO2 Duration )
  (#        18 1.820        0.595 -0.026 -0.573 -0.285  0.082  0.266   32      ISC-PPSM )
@@ -412,7 +412,7 @@ MS     5.6 0.1  334 ISC         619310578
  (#FAULT_PLANE Typ Strike   Dip    Rake  NP  NS Plane Author   )
  (#                177.30 40.40  121.40               ISC-PPSM )
  (+                318.50 56.40   66.10                        )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=0.59500&mtt=-0.02600&mpp=-0.57300&mrt=-0.28500&mrp=0.26600&mtp=0.08200&userid=5900741&hypid=619595513"></td></tr></table><table><tr><td><pre> (#STF N_samp   FS  mo_norm STF_units  NST    NWV  Author   )
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=0.59500&mtt=-0.02600&mpp=-0.57300&mrt=-0.28500&mrp=0.26600&mtp=0.08200&userid=0&hypid=619595513"></td></tr></table><table><tr><td><pre> (#STF N_samp   FS  mo_norm STF_units  NST    NWV  Author   )
  (#       256   10  7.71e09    Nm/s     32     32  ISC-PPSM )
  (#NORMALISED_STF (8 col, 32 lines)
  (# -0.000200  0.034280  0.078990  0.122400  0.162360  0.196230  0.221370  0.235690 )
@@ -459,7 +459,7 @@ MS     5.6 0.1  334 ISC         619310578
  (+                351.41 24.20   76.51                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  9.546 107.47 67.95  0.075   3.75  5.49 -9.622 271.61 21.29 GFZ      )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=6.93385&mtt=0.18881&mpp=-7.12266&mrt=-1.08126&mrp=-6.42217&mtp=0.14627&userid=5900741&hypid=618820768"></td></tr></table> (varianceReduction 0.9439877651)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=6.93385&mtt=0.18881&mpp=-7.12266&mrt=-1.08126&mrp=-6.42217&mtp=0.14627&userid=0&hypid=618820768"></td></tr></table> (varianceReduction 0.9439877651)
  (doubleCouple 0.9843813321)
  (azimuthalGap 107.9007616)
  (misfit 0.05601223495)
@@ -475,7 +475,7 @@ MS     5.6 0.1  334 ISC         619310578
  (+                352.37 10.32   83.09                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  9.755  91.00 55.00 -1.067 359.00  1.00 -8.687 268.00 35.00 NEIC     )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=3.76020&mtt=-1.07060&mpp=-2.68960&mrt=0.02090&mrp=-8.63570&mtp=0.20980&userid=5900741&hypid=615862333"></td></tr></table> (doubleCouple 0.7812)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=3.76020&mtt=-1.07060&mpp=-2.68960&mrt=0.02090&mrp=-8.63570&mtp=0.20980&userid=0&hypid=615862333"></td></tr></table> (doubleCouple 0.7812)
 2021/02/28 23:37:15.60              -17.7234  167.4960                  11.0                                       se <a href=/cgi-bin/agency-get?agency=NEIC>NEIC</a>        615862334
 2021/02/28 23:37:19.60   0.10       -17.6000  167.4500f                 12.1   0.2  955  179                          <a href=/cgi-bin/agency-get?agency=GCMT>GCMT</a>        615347643
  (#CENTROID)
@@ -488,7 +488,7 @@ MS     5.6 0.1  334 ISC         619310578
  (+                174.00 68.00   84.00                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       18  0.966  74.00 67.00  0.069 177.00  5.00 -1.035 269.00 23.00 GCMT     )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=0.66300&mtt=0.08000&mpp=-0.74000&mrt=0.10000&mrp=-0.70400&mtp=-0.01800&userid=5900741&hypid=615347643"></td></tr></table> (nsta1 refers to body waves, cutoff=40s. nsta2 refers to surface/mantle waves, cutoff=50s.)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=0.66300&mtt=0.08000&mpp=-0.74000&mrt=0.10000&mrp=-0.70400&mtp=-0.01800&userid=0&hypid=615347643"></td></tr></table> (nsta1 refers to body waves, cutoff=40s. nsta2 refers to surface/mantle waves, cutoff=50s.)
  (Triangular moment-rate function)
 2021/02/28 23:37:25.20              -17.7234  167.4960                  17.5                                       se <a href=/cgi-bin/agency-get?agency=NEIC>NEIC</a>        615862335
  (#CENTROID)
@@ -501,7 +501,7 @@ MS     5.6 0.1  334 ISC         619310578
  (+                156.58 61.90   67.91                        )
  (#PRINAX sc  T_val T_azim  T_pl  B_val B_azim  B_pl  P_val P_azim  P_pl Author   )
  (#       17  9.998  26.00 66.00 -1.320 167.00 19.00 -8.678 262.00 14.00 NEIC     )
-</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=7.63240&mtt=0.10540&mpp=-7.73780&mrt=4.03610&mrp=-3.62400&mtp=0.12820&userid=5900741&hypid=615862335"></td></tr></table> (doubleCouple 0.7359)
+</pre></td><td align="center" valign="middle" width="80" cellspacing="0" cellpadding="0" border="0"><img width="60" src="/cgi-bin/beachball?mrr=7.63240&mtt=0.10540&mpp=-7.73780&mrt=4.03610&mrp=-3.62400&mtp=0.12820&userid=0&hypid=615862335"></td></tr></table> (doubleCouple 0.7359)
  (type triangle)
  (riseTime 2.23)
  (decayTime 2.23)
@@ -558,6 +558,6 @@ Agencies whose data contributed towards the results of this search:
  NOU       IRD Centre de Nouméa                                                             New Caledonia
  PTWC      Pacific Tsunami Warning Center                                                   U.S.A.
  VAO       Instituto Astronomico e Geofísico                                                Brazil
-<br>Wed Feb 22 16:22:07 2023 GMT<br><br>International Seismological Centre<br>Pipers Lane, Thatcham, Berkshire<br>United Kingdom RG19 4NS<br>+44 (0)1635 861022, voice; +44 (0)1635 872351, fax<br>admin<img src="/images/staff/at.jpg" height="13"></img>isc.ac.uk, e-mail<br><br></pre>
+<br>Wed Feb 22 16:33:08 2023 GMT<br><br>International Seismological Centre<br>Pipers Lane, Thatcham, Berkshire<br>United Kingdom RG19 4NS<br>+44 (0)1635 861022, voice; +44 (0)1635 872351, fax<br>admin<img src="/images/staff/at.jpg" height="13"></img>isc.ac.uk, e-mail<br><br></pre>
 </body>
 </html>
