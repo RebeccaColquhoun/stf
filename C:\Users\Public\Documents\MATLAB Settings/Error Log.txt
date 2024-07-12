@@ -1,0 +1,65 @@
+
+The error below occurred on 29-Mar-2023 12:34:13.
+Error in program fit_multiple_gaussians.
+Traceback (most recent at top):
+ in file checkArgsForHandleToPrint.p, in the function checkArgsForHandleToPrint, at line 0
+ in file checkArgsForHandleToPrint.p, in the function checkArgsForHandleToPrint, at line 0
+ in file print.m, in the function LocalCreatePrintJob, at line 101
+ in file print.m, in the function print, at line 38
+ in file fit_multiple_gaussians.m, in the function fitgauss, at line 201
+
+Error Message:
+Handle input must be scalar, vector, or cell array of vectors.
+-------------------------------------------------------------------------------
+
+The error below occurred on 29-Mar-2023 12:34:30.
+Error in program fit_multiple_gaussians.
+Traceback (most recent at top):
+ in file checkArgsForHandleToPrint.p, in the function checkArgsForHandleToPrint, at line 0
+ in file checkArgsForHandleToPrint.p, in the function checkArgsForHandleToPrint, at line 0
+ in file print.m, in the function LocalCreatePrintJob, at line 101
+ in file print.m, in the function print, at line 38
+ in file fit_multiple_gaussians.m, in the function fitgauss, at line 201
+
+Error Message:
+Handle input argument contains nonhandle values.
+-------------------------------------------------------------------------------
+
+The error below occurred on 29-Mar-2023 12:34:50.
+Error in program fit_multiple_gaussians.
+Traceback (most recent at top):
+ in file checkArgsForHandleToPrint.p, in the function checkArgsForHandleToPrint, at line 0
+ in file checkArgsForHandleToPrint.p, in the function checkArgsForHandleToPrint, at line 0
+ in file print.m, in the function LocalCreatePrintJob, at line 101
+ in file print.m, in the function print, at line 38
+ in file fit_multiple_gaussians.m, in the function fitgauss, at line 199
+
+Error Message:
+Handle input argument contains nonhandle values.
+-------------------------------------------------------------------------------
+
+The error below occurred on 29-Mar-2023 12:35:05.
+Error in program fit_multiple_gaussians.
+Traceback (most recent at top):
+ in file checkArgsForHandleToPrint.p, in the function checkArgsForHandleToPrint, at line 0
+ in file checkArgsForHandleToPrint.p, in the function checkArgsForHandleToPrint, at line 0
+ in file print.m, in the function LocalCreatePrintJob, at line 101
+ in file print.m, in the function print, at line 38
+ in file fit_multiple_gaussians.m, in the function fitgauss, at line 199
+
+Error Message:
+Handle input argument contains nonhandle values.
+-------------------------------------------------------------------------------
+
+The error below occurred on 29-Mar-2023 14:01:55.
+Error in program fit_multiple_gaussians.
+Traceback (most recent at top):
+ in file checkArgsForHandleToPrint.p, in the function checkArgsForHandleToPrint, at line 0
+ in file checkArgsForHandleToPrint.p, in the function checkArgsForHandleToPrint, at line 0
+ in file print.m, in the function LocalCreatePrintJob, at line 101
+ in file print.m, in the function print, at line 38
+ in file fit_multiple_gaussians.m, in the function fitgauss, at line 201
+
+Error Message:
+Handle input argument contains nonhandle values.
+-------------------------------------------------------------------------------
