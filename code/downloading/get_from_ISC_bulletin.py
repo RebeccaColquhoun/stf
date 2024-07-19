@@ -154,7 +154,7 @@ def ISC_download_and_process_data(cat_params, download_data=True):
                 stf_exists, stf_list = look_for_norm_stf(split_at_new_lines,
                                                      s,
                                                      stf_exists)
-                print(stf_exists)
+                print(stf_list)
             if norm_dict is None:
                 norm_dict = look_for_stf(split_at_new_lines, s)
                 print(norm_dict)
@@ -166,11 +166,10 @@ def ISC_download_and_process_data(cat_params, download_data=True):
                                                        quakeml,
                                                        stf_list,
                                                        norm_dict)
-            break
 
     print(count)
 
-for i in range(2016, 2024):
+for i in range(2020, 2021):
     cat_params['start_year'] = i
     cat_params['end_year'] = i + 1
 
