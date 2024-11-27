@@ -37,13 +37,16 @@ def get_stf(scardec_name, combined, wanted_type='fctopt'):
     return momentrate, time, db
 
 
-def f3(end_time, total_moment, time_opt, momentrate_opt, start, points_before_zero, proportion=0.1):
-    '''looks for time value of root'''
-    dx = time_opt[1] - time_opt[0]
-    end_window = (end_time / dx) + points_before_zero
+# looks for time value of root
+def f3(end_time, total_moment, time_opt, momentrate_opt, start, points_before_zero, proportion = 0.1):
+    dx = time_opt[1]-time_opt[0]
+    end_window = (end_time/dx)+points_before_zero
     end = int(np.floor(end_window))
-    short = scipy.integrate.simpson(momentrate_opt[start:end], dx=dx)
-    return short - (total_moment * proportion)
+    if start == end:
+        end += 1
+    short = scipy.integrate.simpson(momentrate_opt[start:end], dx = dx)
+    return short-(total_moment*proportion)
+
 
 
 def hellinger_explicit(p, q):
@@ -96,7 +99,7 @@ for proportions_list in all_proportions:
 
         for scardec_name in os.listdir(data_path):
             # Get the moment rate and time for the current scardec_name
-            momentrate_opt, time_opt, db = get_stf(scardec_name, combined)
+            momentrate_opt, time_opt, db = get_stf(scardec_name, combined, wanted_type='fctmoy')
 
             # Find indices where moment rate is greater than zero
             not_zero = np.where(momentrate_opt > 0)[0]

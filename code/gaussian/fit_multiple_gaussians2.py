@@ -1,8 +1,9 @@
-from scipy.optimize import curve_fit
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
 import pickle
+
+import matplotlib.pyplot as plt
+import numpy as np
+from scipy.optimize import curve_fit
+
 
 def gaussian(x, peakPosition, width):
     g = np.exp(-((x - peakPosition) / (0.60056120439323 * width)) ** 2)
@@ -15,7 +16,7 @@ amplitudes = np.array([40,20,16,26,20,36])#%randi([10, 40], 1, numGaussians);
 x = np.linspace(0, 150, 1000)
 y = np.zeros(len(x))
 
-with open(f"cat_and_stf/621560715.txt", 'rb') as f:
+with open("/home/earthquakes1/homes/Rebecca/phd/stf/data/isc_test/614554713.txt", 'rb') as f:
     y = pickle.load(f)
 x = np.linspace(0, len(y), 256)
 numGaussians = 3
@@ -51,7 +52,7 @@ def func(x, *params):
 #for n in range(1, 15):
 guess = []
 for i in range(4):
-    guess += [30*i, 10, 10]   
+    guess += [30*i, 10, 10]
 #print(guess)
 popt, pcov = curve_fit(func, x, y, p0=guess, maxfev = 10000000)
 #print(popt)
