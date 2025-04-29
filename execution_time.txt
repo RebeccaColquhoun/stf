@@ -1,0 +1,2 @@
+n: 10
+, Execution time: 0.1370689868927002 seconds

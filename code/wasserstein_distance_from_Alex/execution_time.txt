@@ -1,0 +1,11 @@
+n: 10, Execution time: 0.14583468437194824 seconds
+n: 100, Execution time: 2.332758665084839 seconds
+n: 200, Execution time: 8.877478837966919 seconds
+n: 300, Execution time: 18.55868911743164 seconds
+n: 500, Execution time: 53.68069577217102 seconds
+n: 1000, Execution time: 204.53014969825745 seconds
+n: 700, Execution time: 105.53303670883179 seconds
+n: 1300, Execution time: 366.6971592903137 seconds
+n: 110, Execution time: 2.885295867919922 seconds
+n: 110, Execution time: 2.7348320484161377 seconds
+n: 12, Execution time: 1916.479542016983 seconds
