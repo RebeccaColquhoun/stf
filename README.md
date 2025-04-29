@@ -1,2 +1,2 @@
 # stf
-Source time function analysis
+Analysing earthquake processes using source time functions. 
